@@ -1,6 +1,8 @@
-__미제출로 끝남/ 시간부족 + 공간분석 툴이 아닌 , python(foliumn, Geopandas)으로만 하기엔 한계를 느낌 <br>__
+__대회는 미제출로 끝남__
+- 대회를 늦게 시작하여 시간 부족 + 공간분석 툴이 아닌 python(foliumn, Geopandas)으로만 하기엔 한계를 느낌
 
 # (오산시) 어린이 교통사고 위험지역 도출 
+- https://compas.lh.or.kr/
 <img src="img/competition.png">
 
 ---
